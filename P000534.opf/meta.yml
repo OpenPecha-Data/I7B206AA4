@@ -1,15 +1,16 @@
-id: opecha:P000534
+id: P000534
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG9751
   title: ཞྭ་ལུའི་ཆོས་སྤྱོད།
-  volume:
+  author: ''
+  volumes:
     7494f85b3717442d83d3d17e1fa9f2b0:
       image_group_id: I1KG9764
       title: Volume 1 of zhwa lu'i chos spyod/
       volume_number: 1
       total_pages: 426
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཞྭ་ལུའི་ཆོས་སྤྱོད།
   author: ''
